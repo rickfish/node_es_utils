@@ -1,0 +1,3222 @@
+{
+  "staging_com_csx_asset_rolling_train_trainmanagementadjuststats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2031" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcddpma" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_event_operational_notification_customerinsight" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".watches-11" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdauta" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "jira_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev-com-csx-asset-ptc10105" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotivefaultreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainptccompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "bamboo_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2080enriched" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_dispatchtrainlocation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "5"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_railcarpulled" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_tymsinventoryadjustment" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_onboardtrainconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_traincrewassigned" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_p36" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ace_jvm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1043" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2080enriched" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_plan_trainprofilenotification" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1053" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "mcs_logs_server" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1033" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "filebeat-7.12.0" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "nfsgoswasp" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_dispatchtrainlocationenriched" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_shipment_bill_waybill_waybillreleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1030" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc6004" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2084" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "crewlife_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "sterling_adapters" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_event_alerts_ptccompliance_ptcstatechangereport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_shipment_notifications_demurrage_railcarorderedplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".monitoring-beats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_geometriccarlog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "qa_com_csx_asset_rolling_equipment_intermodalassetlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".ml-stats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "apigee_isc_transaction_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_assetlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainstoppedstarted" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_device_aeiverified" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1010" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdbltb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "ptc_itcm_general_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_events_cep_statestore" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1004" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2103" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_p20" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".management-beats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptcinteraction" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1041" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1020" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".kibana-event-log-7.10.1-template" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotivepositionreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcitska" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_dynamiclta" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_traininspected" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2500" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "loginsight_syslog_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1030" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_enginestatus" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcitska" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2122" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "sterling_business_processes" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "bos_pvss_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "uat_tmc_events_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2062" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_coretex_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_ptc10105" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "mpp_all_transaction_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "5"
+      }
+    }
+  },
+  ".monitoring-es" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_leadlocostate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_device_vin" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_device" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_p20" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_leadloco" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "goswasp" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_plan_operational_workorder_location_intermodalmission" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_ptc10106" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_witronix_alert" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_wayside_wiu_ptc5100" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_shipment_notifications_demurrage_railcaropengatedemurragereleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "cca_split_pro_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "apigee-product-logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_vehiclelog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2032" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_cartrainevents" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2011" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "iib_debug" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1053" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".watches" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "service_registry" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_tymsyarding" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locotrainassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_dispatchtrainlocation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "iib_activity_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc6025" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".monitoring-alerts-7" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_system_log_businessexception" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".monitoring-alerts" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_ptc2003" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_itcmlog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_intermodalassetlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2084" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1040" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_shipment_notifications_demurrage_railcarconstructivelyplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_witronix_alert" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdconb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcicona" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_intermodalyardtoramp" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2087" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_traincrewassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "cops_service_transaction" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".logstash-management" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_consistdeparture" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_railcarplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainstoppedstarted" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_legacy_op_trainattributesreported" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdnema" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_railcarreceived" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_itcmtrc" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "metricbeat-7.12.0" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "iib-bindings-file-uat" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_vehiclelocatedbyarea" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".triggered_watches-11" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_consistdeparture" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1021" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_geometriccarlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_vehiclelocatedbystate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_dynamiclta" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_geometriccardevice" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1007" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1010" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_witronix_alert" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc6005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "syslog_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_leadlocostate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdconb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2102" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_p29" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_tonnageratingcalculated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptcinteraction" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1004" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcicona" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_wayside_wiu_waysidestatuschange" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2082" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1000" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_vehiclelocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdcona" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_engineering_geometriccarlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainstandingorder" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_system_alert_trainhandlingexception" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_enforcementwarningbrakingnotification" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".ml-notifications" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdaura" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_railcardelivered" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1051" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1021" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ligmetrics" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2080" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_engineering_vehiclelocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainptccompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "gosmwprod" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_shipment_notifications_demurrage_railcarorderedplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".transform-internal-004" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_popg_eot_siemens" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainmanagementauthorization" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2088" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotivefaultreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "ems_bo_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_traintermination" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdcoma" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainmanagementtimereports" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "iib_errors" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_eot_eotlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2040" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_railcarreceived" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_itcmtrc" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2007" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_event_operational_notification_customerinsight" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_geometriccardevice" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_cartrainevents" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_railcarplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "qa_com_csx_plan_operational_workorder_location_intermodalmission" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locotrainassociationhistory" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "nfsgosmwprod" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2052" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_shipment_notifications_demurrage_railcarreleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_engineering_device_vin" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_shipment_notifications_demurrage_railcaropengatedemurrageapplied" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2083" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_popg_ats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_shipment_notifications_demurrage_railcarreleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_onboardtrainconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2040" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_wayside_wiu_wiustatuschange" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_tymsinventoryadjustment" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_emergencybrakeapplicationreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_event_alerts_ptccompliance_airbrakecutout" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_system_log_businessexception" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcddmca" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "iib_jvm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainmanagementauthorization" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_ptc2020" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1033" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2101" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_consistarrival" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_device_aeidelete" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "d003-ocp-v4-logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "tpsmetric_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainmanagementadjuststats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainauthorized" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "uat_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2087" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2007" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1000" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdnema" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_intermodalassetlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_engineering_vin" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_intermodalyardtoramp" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "poc_com_csx_asset_rolling_loco_ligunpivoted" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_p29" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "tps_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_itcmlog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_system_alert_trainhandlingexception" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainstats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc6025" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "security-index-template" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotivefuellevelreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "odm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_popg_eot_wabtec" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1062" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "mcs_logs_access" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_enforcementwarningbrakingnotification" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdaura" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1041" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_device_aeiid" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_operationsportalmapreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_shipment_bill_waybill_waybillreleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_wayside_wiu_wiustatuschange" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1043" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_eot_eotlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".ml-config" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "websphere" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_intermodalevents" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".kibana_security_session_index_template_1" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "gigaspaces_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_ptc2020" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "mpp_transaction_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc6034" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "apigee_mp_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2100" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_system_alert_witronixepisode" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_ptc10105" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locotrainassociationhistory" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2062" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_realtimetraincompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "apigee_api_isc_transaction_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_intermodalramptoyard" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "qa_com_csx_location_party_driverlocation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc6004" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2030" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2052" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".monitoring-logstash" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "gos_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_tymsyarding" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_operationsportalmapreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_equipment_assetlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2088" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ptc_itcm_trace_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "was9_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2501" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_legacy_op_trainattributesreported" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2100" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "bpm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_consistarrival" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2010" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_system_alert_witronixepisode" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2042" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".monitoring-kibana" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "self_service_demo" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_event_alerts_ptccompliance_ptcspeedreductionviolated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotivelocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_intermodal_reeferlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_device" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_traininspected" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".watch-history-10" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "was_jvm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_device_aeiid" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_realtimetraincompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_vehiclestatus" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_plan_operational_maintenance_railcarinspectionmileageinquiry" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotiveconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_emergencybrakeapplicationreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_tymsyardtoyardtransfer" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "timetrax_jvm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_witronix_alert" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_driver" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "cca_vdn_pro_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2081" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_intermodalramptoyard" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2080" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdbltb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".transform-internal-005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_p36" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".ml-notifications-000001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_equipment_railcardelivered" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_energymanagementcompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_dispatchtrainlocationenriched" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "tpsbeat_rawevents_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "cca_synonyms_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2032" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotivefuellevelreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".ml-inference-000001" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_engineering_vehiclelocatedbystate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_geometriccarlog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "timetrax_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_driver" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_traintermination" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "metricbeat-7.10.2" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".triggered_watches" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2000" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2081" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".transform-notifications-000002" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "sterling_map_components" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_tymsyardtoyardtransfer" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "cca_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1062" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_location_party_driverlocation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1020" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2122" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ems_loco_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdcoma" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".transform-internal-003" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "ocp_v4_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "8"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc1040" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2010" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcddmca" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainstandingorder" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_intermodalevents" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_shipment_notifications_demurrage_railcaropengatedemurragereleased" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locomotivesystemstate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_shipment_notifications_demurrage_railcarconstructivelyplaced" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_vehiclelog" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_wayside_wiu_waysidestatuschange" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_plan_operational_trainprofile_trainprofilesstate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc6034" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "liberty_jvm_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1011" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotivelocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2083" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ptc_cert_management" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "d003_ocp_v4_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2500" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_plan_operational_workorder_location_intermodalmission" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc1007" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_geotab_asset_rolling_engineering_vehiclestatus" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2053" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdtskb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_ptc2003" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2082" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ace_activity_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_plan_operational_maintenance_railcarinspectionmileageinquiry" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_ptc10203" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "yard_prod_feed_to_uat_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "mcs_logs_sars" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_device_aeidelete" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "gigaspaces_v16_app_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "bitbucket_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_plan_trainprofilenotification" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_requesttrainidlist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_plan_operational_maintenance_railcarinspectionmileagereport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2000" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1011" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".watch-history-11" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcdcona" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "iib-bindings-file-dev" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".slm-history" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc1051" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_event_alerts_ptccompliance_ptcspeedreductionviolated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".ml-inference-000003" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_location_party_driverlocation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "metricbeat-7.10.1" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "tpsbeat_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".ml-meta" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2101" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_railcarpulled" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2031" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_ptc10203" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainauthorized" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2043" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdtskb" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainorigination" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainstats" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  ".kibana_task_manager" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_wayside_wiu_wiustatusstoppedstarted" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_locotrainassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  ".watch-history-9" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "logstash" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_plan_operational_maintenance_railcarinspectionmileagereport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "network_syslog_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "logstash_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "default" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_wayside_wiu_ptc5100" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_energymanagementcompliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "filebeat-7.10.2" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotiveconsist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2103" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_traincrewassigned" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_engineering_vehiclelocatedbyarea" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_requesttrainidlist" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotivesystemstate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_plan_operational_trainprofile_trainprofilesstate" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_geotab_asset_rolling_engineering_enginestatus" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_ptc10106" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_mbcddpma" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc1005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_leadloco" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_regulation_ptc2043" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ligmetrics" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "uat_crew_history_events_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2042" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainmanagementtimereports" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2501" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_traincrewassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_mbcdauta" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_locomotivepositionreport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_event_alerts_ptccompliance_ptcstatechangereport" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "uat_ats_events_popg" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_regulation_ptc2053" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc6005" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainorigination" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_shipment_notifications_demurrage_railcaropengatedemurrageapplied" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_train_trainlocoassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_device_aeiverified" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2030" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "ptc-compliance" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_loco_ptc2102" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "dev_com_csx_asset_rolling_loco_ptc2011" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_train_trainlocoassociation" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "dev_com_csx_asset_wayside_wiu_wiustatusstoppedstarted" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "1"
+      }
+    }
+  },
+  "staging_com_csx_asset_rolling_intermodal_reeferlocated" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  },
+  "b2b_logs" : {
+    "settings" : {
+      "index" : {
+        "number_of_shards" : "3"
+      }
+    }
+  }
+}
