@@ -1,7 +1,7 @@
 const fs = require('fs')
 const os = require('os')
 
-const templateDirectory = 'c:\\Users\\I1320\\gitrepos\\isc_elastic-develop\\index_templates\\dev'
+const templateDirectory = 'c:\\Users\\I1320\\gitrepos\\isc_elastic\\index_templates\\dev'
 
 const getTemplatesFromDirectory = () => {
     const outputFile = 'templates_from_git_with_three_shards.csv'

@@ -1,7 +1,7 @@
 const lineReader = require('line-reader')
 const fs = require('fs')
 
-const templateDirectory = 'c:\\Users\\I1320\\gitrepos\\isc_elastic-develop\\index_templates\\dev'
+const templateDirectory = 'c:\\Users\\I1320\\gitrepos\\isc_elastic\\index_templates\\dev'
 const changeShardCountInPlace = true
 
 const updateTemplates = async () => {
